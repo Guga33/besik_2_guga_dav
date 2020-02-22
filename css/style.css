@@ -1,0 +1,177 @@
+/* stuff */
+
+.inline-b {
+    display: inline-block;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+/* end stuff */
+/* 1111 */
+.fonts {
+    margin: 30px;
+}
+
+.fonts :nth-child(1) {
+    font-style: normal;
+    font-size: 25px;
+}
+
+.fonts :nth-child(2) {
+    font-style: italic;
+    font-size: 25px;
+}
+
+.fonts :nth-child(3) {
+    font-style: oblique;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* 2222222 */
+.sasurveli {
+    margin: 0 30px 30px 30px;
+    background-color: khaki;
+    padding: 10px 50px 10px 50px;
+}
+
+.sasurveli :nth-child(1) {
+    padding: 10px 0 10px 0;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.sasurveli :nth-child(2) {
+    text-align: center;
+
+}
+
+/* 33333 */
+.mesame {
+    border: solid;
+    padding: 10px 50px 10px 50px;
+}
+
+.mesame p {
+    color: red;
+    padding: 10px 0 10px 0;
+    float: right;
+    text-align: right;
+}
+
+/* 4444 */
+.motxe {
+    margin-left: 30px;
+}
+
+.motxe p {
+    font-weight: bold;
+}
+
+.sp-1 {
+    display: inline-block;
+    height: 10px;
+    width: 200px;
+    background-color: red;
+}
+
+.sp-2 {
+    display: inline-block;
+    height: 10px;
+    width: 200px;
+    background-color: blue;
+}
+
+/* 555 */
+.mexute {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.mexute p {
+    font-size: 30px;
+}
+
+.mexute :nth-child(1) {
+    text-decoration: underline;
+}
+
+.mexute :nth-child(2) {
+    text-decoration: line-through;
+}
+
+.mexute :nth-child(3) {
+    text-decoration: overline;
+}
+
+/* 6666 */
+.meekvse {
+    margin: 30px 0 0 30px;
+    font-stretch: ultra-expanded;
+}
+
+.meekvse p {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+/* 77777 */
+.meshvide :nth-child(1) {
+    border: dotted;
+
+}
+
+.meshvide :nth-child(2) {
+    border: dashed;
+}
+
+.meshvide :nth-child(3) {
+    border: groove;
+}
+
+.meshvide p {
+    font-size: 25px;
+    line-height: 40px;
+
+}
+
+.meshvide {
+    display: inline-block;
+    margin: 30px 0 0 30px;
+}
+
+/* 88888 */
+.merve {
+    margin: 30px 0 0 30px;
+}
+
+.merve :nth-child(1) {
+    display: inline-block;
+    border: dotted;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 15px 30px 50px 5px;
+}
+
+.merve :nth-child(2) {
+    display: inline-block;
+    border: dotted;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50px/15px;
+}
+
+.merve :nth-child(3) {
+    display: inline-block;
+    border: dotted;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
